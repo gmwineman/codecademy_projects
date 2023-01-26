@@ -1,3 +1,4 @@
+--LINK TO DATA : https://docs.google.com/spreadsheets/d/1vOvJ28tJ102ReqDPXkqTwhnWWkyu07iUu6xWdAKo31g/edit#gid=0
 -- The below queries are for codecademy project User Churn
 -- churn is calculated by taking the total number of canceled users and divide by the total number of active users
 

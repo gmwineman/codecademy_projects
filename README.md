@@ -1,9 +1,9 @@
 # Codecademy Projects
-#### here are the SQL projects for the Analyze Data with SQL skills course  
-#### links to data sets at top of each project
 
 Within the repo are multiple projects from various Codecademy Paths
 
+### Analyze Data with SQL Path
+##### links to data sets at top of each project
 [Analyze Data with SQL Project 1: Calculating User Churn Rates](https://github.com/gmwineman/codecademy_projects/blob/main/churn_rate_script.sql)
 - The marketing department for fictitious company "Codeflix" has provided 4 months of subscription data.
 - Calculate user churn rates

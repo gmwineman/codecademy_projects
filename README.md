@@ -4,7 +4,7 @@
 
 Within the repo are multiple projects from various Codecademy Paths
 
-Analyze Data with SQL Project 1: Calculating User Churn Rates
+[Analyze Data with SQL Project 1: Calculating User Churn Rates](https://github.com/gmwineman/codecademy_projects/blob/main/churn_rate_script.sql)
 - The marketing department for fictitious company "Codeflix" has provided 4 months of subscription data.
 - Calculate user churn rates
 
